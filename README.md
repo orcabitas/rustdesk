@@ -23,7 +23,7 @@ RustDesk welcomes contribution from everyone. See [CONTRIBUTING.md](docs/CONTRIB
 
 [**FAQ**](https://github.com/rustdesk/rustdesk/wiki/FAQ)
 
-[**BINARY DOWNLOAD**](https://github.com/rustdesk/rustdesk/releases)
+[**BINARY DOWNLOAD**](https://github.com/orcabitas/rustdesk/releases)
 
 [**NIGHTLY BUILD**](https://github.com/rustdesk/rustdesk/releases/tag/nightly)
 
